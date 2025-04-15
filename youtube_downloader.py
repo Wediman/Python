@@ -10,4 +10,4 @@ print("Views: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download('C:/Users/wdiim/Videos/ytdownload')
+yd.download('C:/Users/wdi/Videos/ytdownload')
